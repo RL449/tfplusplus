@@ -10,6 +10,8 @@ import os.path as osp
 from keras import backend as K
 from keras.models import load_model
 
+# This is a comment
+
 input_fld = './'
 weight_file = 'k_model.h5'
 num_output = 1
